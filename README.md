@@ -1,10 +1,12 @@
 ------------------------------------------------------------------------
 
-Title: COZINE: COmpositional Zero-InflatedNetwork Estimation 
+## COZINE: COmpositional Zero-InflatedNetwork Estimation 
 
-Author: Min Jin Ha, mjha@mdanderson.org 
+### Author: Min Jin Ha
 
-Date: “3/1/2020” 
+Date: 3/1/2020
+
+Reference: Ha MJ, Kim J, Galloway-Pena J, Do KA, Peterson CB. (2020) Compositional zero-inflated network estimation for microbiome data. *BMC Bioinformatics*. 21:1-20
 
 ------------------------------------------------------------------------
 
